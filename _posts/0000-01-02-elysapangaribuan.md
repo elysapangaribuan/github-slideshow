@@ -2,5 +2,5 @@
 layout : slide
 title : "Welcome to our second slide!" 
 ---
-Sobat Mantul
+Hello!!!
 use the left arrow to go back!
